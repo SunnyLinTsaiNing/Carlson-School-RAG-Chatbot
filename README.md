@@ -23,16 +23,16 @@ RAG combines the power of retrieval-based methods with generative AI to provide 
 | **Scalability**         | Seamlessly integrates with extensive external knowledge bases.                 |
 
 ## Business Applications
-Customer Support Automation: Deliver accurate, dynamic responses based on company manuals and FAQs.
-Research and Analysis: Retrieve insights from large repositories for data-driven decision-making.
-Content Creation: Build fact-based reports, articles, and summaries from validated sources.
-Compliance and Legal Research: Ensure adherence to regulations by referencing up-to-date legal documents.
-Enterprise Knowledge Management: Provide employees with quick, accurate answers from internal company documents.
+1. Customer Support Automation: Deliver accurate, dynamic responses based on company manuals and FAQs.
+2. Research and Analysis: Retrieve insights from large repositories for data-driven decision-making.
+3. Content Creation: Build fact-based reports, articles, and summaries from validated sources.
+4. Compliance and Legal Research: Ensure adherence to regulations by referencing up-to-date legal documents.
+5. Enterprise Knowledge Management: Provide employees with quick, accurate answers from internal company documents.
 
 ## Why RAG Matters for Your Business
-Competitive Edge: Enables real-time, reliable outputs, keeping businesses ahead in innovation.
-Enhanced Customer Trust: Provides fact-based answers, improving credibility and confidence.
-Operational Efficiency: Reduces manual effort with automated content generation and retrieval.
+1. Competitive Edge: Enables real-time, reliable outputs, keeping businesses ahead in innovation.
+2. Enhanced Customer Trust: Provides fact-based answers, improving credibility and confidence.
+3. Operational Efficiency: Reduces manual effort with automated content generation and retrieval.
 
 ## How RAG Works
 1. User Query: A user submits a question or request for information.
