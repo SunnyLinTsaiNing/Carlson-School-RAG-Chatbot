@@ -1,7 +1,7 @@
 # Trends Marketplace Project
 In this project, we leveraged the Retrieval-Augmented Generation (RAG) approach to build a chatbot for the Carlson School's website, using Gemini, a large language model developed by Google. This project showcases the benefits of RAG compared to traditional generative AI systems and explores its business applications.
  
-# What is RAG?
+## What is RAG?
 RAG combines the power of retrieval-based methods with generative AI to provide more accurate, real-time responses by grounding outputs in external, validated data sources.
 
 ## RAG vs. Traditional Generative AI
