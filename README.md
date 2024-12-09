@@ -13,7 +13,30 @@ RAG combines the power of retrieval-based methods with generative AI to provide 
 | **Update Frequency**    | Requires retraining for updates   | Instantly retrieves the latest information  |
 | **Scalability**         | Limited without costly retraining | Easily scales with external data            |
 
+## Benefits of RAG
+
+| **Benefit**            | **Description**                                                                 |
+|-------------------------|---------------------------------------------------------------------------------|
+| **Improved Accuracy**   | Reduces hallucinations by grounding responses in real-time, validated data.    |
+| **Access to Real-Time Data** | Retrieves the latest information instead of relying on static datasets.        |
+| **Cost-Efficient**      | Avoids the need to retrain large models for new datasets.                      |
+| **Scalability**         | Seamlessly integrates with extensive external knowledge bases.                 |
+
+Business Applications
+Customer Support Automation:
+Deliver accurate, dynamic responses based on company manuals and FAQs.
+Research and Analysis:
+Retrieve insights from large repositories for data-driven decision-making.
+Content Creation:
+Build fact-based reports, articles, and summaries from validated sources.
+Compliance and Legal Research:
+Ensure adherence to regulations by referencing up-to-date legal documents.
+Enterprise Knowledge Management:
+Provide employees with quick, accurate answers from internal company documents.
+
 # How we did this?
+
+Set up a pipeline to fetch new data from the source website, convert it to vectors, and update the vector database regularly.
 
 
 # Code & files
