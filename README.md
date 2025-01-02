@@ -64,3 +64,6 @@ We followed the **RAG (Retrieval-Augmented Generation)** approach to build a cha
 To run the code, upload the data files from a folder named "data" in the Colab environment and set up the necessary key.
 
 📌[Colab](https://colab.research.google.com/drive/1_TYG8saveyjD1yY4RKJRxZfFySosIW6Q#scrollTo=sP_iDUhPOd2k)
+
+![image](https://github.com/user-attachments/assets/8d5c663c-7618-4d96-b3c8-b50794fdb571)
+
