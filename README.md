@@ -65,5 +65,7 @@ To run the code, upload the data files from a folder named "data" in the Colab e
 
 📌[Colab](https://colab.research.google.com/drive/1_TYG8saveyjD1yY4RKJRxZfFySosIW6Q#scrollTo=sP_iDUhPOd2k)
 
+![image](https://github.com/user-attachments/assets/b3552077-3668-490b-99e8-e01d505571ef)
+
 ![image](https://github.com/user-attachments/assets/8d5c663c-7618-4d96-b3c8-b50794fdb571)
 
