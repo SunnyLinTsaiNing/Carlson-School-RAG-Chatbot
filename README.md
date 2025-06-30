@@ -53,7 +53,7 @@ We followed the **RAG (Retrieval-Augmented Generation)** approach to build a cha
    - Generated accurate, contextually grounded responses tailored to the query.
 
 5. **Demonstration**:  
-   - Used **Gradio** to create a user interface for showcasing the chatbot.  
+   - Used **voila** to create a user interface for showcasing the chatbot.  
    - Conducted thorough testing to ensure reliability, accuracy, and responsiveness during the demo.
 
 
