@@ -1,3 +1,4 @@
+🔗 This is a forked project developed in collaboration with [@KoJenKang](https://github.com/KoJenKang).
 # Trends Marketplace Project
 In this project, we leveraged the Retrieval-Augmented Generation (RAG) approach to build a chatbot for the Carlson School's website, using Gemini, a large language model developed by Google. This project showcases the benefits of RAG compared to traditional generative AI systems and explores its business applications.
  
